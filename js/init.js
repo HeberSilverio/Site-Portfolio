@@ -604,9 +604,9 @@ function arlo_tm_kenburn_slider(){
 			delay:7000,
 
 			slides: [
-				{ src: 'https://www.baboo.com.br/img/hero/baboo-1.jpg' },
-				{ src: 'https://www.baboo.com.br/img/hero/baboo-2.jpg' },
-				{ src: 'https://www.baboo.com.br/img/hero/baboo-3.jpg' },
+				{ src: 'https://metodoafd.com.br/wp-content/uploads/2020/03/pexels-photo-160107.jpeg' },
+				{ src: 'https://metodoafd.com.br/wp-content/uploads/2020/03/programming.jpg' },
+				{ src: 'https://metodoafd.com.br/wp-content/uploads/2020/03/pexels-photo-1229861.jpeg' },
 			]
 
 		});
