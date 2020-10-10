@@ -75,7 +75,7 @@ border-bottom: 2px dotted #ea0202;
 .wp-caption .wp-caption-text {
     margin: 10px 0 0;
     font-size: 14px;
-    color: #5791da;
+    color: #4470a7;
     text-align: center;
     line-height: 18px;
     font-style: italic;
@@ -826,7 +826,7 @@ img.svg{
 	top: 0px;
 	bottom: 0px;
 	left: 0px;
-	background-color: #0f84e0;
+	background-color: #212D40;
 	z-index: 100;
 	
 	-webkit-transition: all .3s ease;
@@ -839,7 +839,7 @@ img.svg{
 .arlo_tm_leftpart_wrap.hide{left: -300px;}
 .arlo_tm_leftpart_wrap.opened{left: -300px;}
 .arlo_tm_leftpart_wrap .logo_wrap{
-	background-color: #0f84e0;
+	background-color: #212D40;
 	padding: 50px 20px;
 	width: 100%;
 	float: left;
