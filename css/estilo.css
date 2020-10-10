@@ -891,7 +891,7 @@ img.svg{
 	content: "";
 	height: 2px;
 	width: 0px;
-	background-color: #E3872D;
+	background-color: #FF9898;
 	top: 14px;
 	transform: translateY(-50%);
 	left: 100%;
@@ -903,7 +903,7 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.arlo_tm_leftpart_wrap .menu_list_wrap ul li a:hover{color: #E3872D;}
+.arlo_tm_leftpart_wrap .menu_list_wrap ul li a:hover{color: #FF9898;}
 .arlo_tm_leftpart_wrap .menu_list_wrap ul li a:hover:before{width: 35px;}
 .arlo_tm_leftpart_wrap .leftpart_bottom{
 	position: absolute;
@@ -941,7 +941,7 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.arlo_tm_leftpart_wrap .leftpart_bottom .social_wrap ul li a:hover{color: #E3872D;}
+.arlo_tm_leftpart_wrap .leftpart_bottom .social_wrap ul li a:hover{color: #FF9898;}
 .arlo_tm_leftpart_wrap .arlo_tm_resize{
 	position: absolute;
 	right: 0px;
@@ -1130,7 +1130,7 @@ img.svg{
 }
 .arlo_tm_hero_header_wrap .name_holder h3 span{
 	font-weight: 500;
-	color: #E3872D;
+	color:#FF9898;
 }
 .arlo_tm_hero_header_wrap .text_typing{
 	width: 100%;
@@ -1478,7 +1478,7 @@ img.svg{
 .arlo_tm_about_wrap .buttons_wrap ul li a{
 	text-decoration: none;
     color: #fff;
-    background-color: #E3872D;
+    background-color: #FF9898;
     font-weight: 600;
     font-family: Segoe UI, Arial;;
     padding: 12px 35px;
@@ -1721,7 +1721,7 @@ img.svg{
 .arlo_tm_services_wrap .list_wrap ul li .icon .svg{
 	width: 40px;
 	height: 40px;
-	color: #E3872D;
+	color: #FF9898;
 }
 .arlo_tm_services_wrap .list_wrap ul li .title_service{margin-bottom: 17px;}
 .arlo_tm_services_wrap .list_wrap ul li .title_service h3{
@@ -1986,7 +1986,7 @@ img.svg{
 	margin-bottom: 22px;
 }
 .arlo_tm_testimonial_wrap .quotebox_wrap i{
-	color: #E3872D;
+	color: #FF9898;
 	font-size: 35px;
 }
 .arlo_tm_testimonial_wrap .definitions_wrap{
@@ -2177,7 +2177,7 @@ img.svg{
     -o-transition: all .3s ease;
     transition: all .3s ease;
 }
-.arlo_tm_news_wrap .date_wrap p a:hover{color: #E3872D;}
+.arlo_tm_news_wrap .date_wrap p a:hover{color: #FF9898;}
 .arlo_tm_news_wrap .date_wrap p a:after{
 	position: absolute;
 	content: "";
@@ -2207,13 +2207,13 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.arlo_tm_news_wrap .title_holder h3 a:hover{color: #E3872D;}
+.arlo_tm_news_wrap .title_holder h3 a:hover{color: #FF9898;}
 .arlo_tm_news_wrap .definition{margin-bottom: 26px;}
 .arlo_tm_news_wrap .definition p{color: #333;}
 .arlo_tm_news_wrap .read_more a{
 	text-decoration: none;
     color: #fff;
-    background-color: #E3872D;
+    background-color: #FF9898;
     font-weight: 600;
     font-family: Segoe UI, Arial;;
     padding: 12px 35px;
@@ -2552,7 +2552,7 @@ img.svg{
 .arlo_tm_contact_wrap .arlo_tm_button a{
 	text-decoration: none;
     color: #fff;
-    background-color: #E3872D;
+    background-color: #FF9898;
     font-weight: 600;
     font-family: Segoe UI, Arial;;
     padding: 12px 35px;
@@ -2845,7 +2845,7 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.arlo_tm_palestras_single_wrap .pagination_wrap a:hover{color: #E3872D;}
+.arlo_tm_palestras_single_wrap .pagination_wrap a:hover{color: #FF9898;}
 
 /*---------------------------------------------------*/
 /*	14) MOBILE HEADER
