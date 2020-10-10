@@ -514,7 +514,7 @@ function arlo_tm_animate_text(){
 	var animateSpan			= jQuery('.arlo_tm_animation_text_word');
 	
 		animateSpan.typed({
-			strings: ["MVP por 17 anos consecutivos", "Especialista em Windows", "Especialista em Segurança Digital", "Consultor de alto nível", "Palestrante"],
+			strings: ["Músico", "Administrador", "Programador Júnior", "Escritor", "Palestrante"],
 			loop: true,
 			startDelay: 1e3,
 			backDelay: 2e3
