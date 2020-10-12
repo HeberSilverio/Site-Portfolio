@@ -1130,7 +1130,7 @@ img.svg{
 }
 .arlo_tm_hero_header_wrap .name_holder h3 span{
 	font-weight: 500;
-	color:#FF9898;
+	color:#E3872D;
 }
 .arlo_tm_hero_header_wrap .text_typing{
 	width: 100%;
@@ -1986,7 +1986,7 @@ img.svg{
 	margin-bottom: 22px;
 }
 .arlo_tm_testimonial_wrap .quotebox_wrap i{
-	color: #FF9898;
+	color:yellow;
 	font-size: 35px;
 }
 .arlo_tm_testimonial_wrap .definitions_wrap{
@@ -2073,7 +2073,7 @@ img.svg{
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
 			box-sizing: border-box; /* Opera/IE 8+ */
 }
-.arlo_tm_universal_box_wrap .overlay_image.testimonial{background-image: url(..//img/hero/fundo-cursos.jpg);}
+.arlo_tm_universal_box_wrap .overlay_image.testimonial{background-image: url(..//img/hero/3.jpg);}
 .arlo_tm_universal_box_wrap .overlay_color.testimonial{background-color: rgba(7,23,55,.8);}
 .arlo_tm_universal_box_wrap .content.testimonial{padding: 82px 0px 90px 0px;}
 
