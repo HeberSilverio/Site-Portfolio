@@ -941,7 +941,7 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.arlo_tm_leftpart_wrap .leftpart_bottom .social_wrap ul li a:hover{color: #FF9898;}
+.arlo_tm_leftpart_wrap .leftpart_bottom .social_wrap ul li a:hover{color: #fffb0a;}
 .arlo_tm_leftpart_wrap .arlo_tm_resize{
 	position: absolute;
 	right: 0px;
@@ -950,7 +950,7 @@ img.svg{
 	height: 30px;
 	text-align: center;
 	line-height: 30px;
-	background-color: #000;
+	background-color: #E3872D;
 	display: inline-block;
 	text-decoration: none;
 	z-index: 200;
@@ -1081,7 +1081,7 @@ img.svg{
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
 			box-sizing: border-box; /* Opera/IE 8+ */
 }
-.arlo_tm_universal_box_wrap .overlay_image.hero{background-image: url(..//img/hero/fundo-cursos.jpg);} 
+.arlo_tm_universal_box_wrap .overlay_image.hero{background-image: url(..//img/hero/2.jpg);} 
 .arlo_tm_universal_box_wrap .overlay_color.hero{background-color: rgba(7,23,55,.8);}
 .arlo_tm_universal_box_wrap .content.hero{height: 100vh;}
 .arlo_tm_hero_header_wrap .inner_content{
@@ -1103,7 +1103,7 @@ img.svg{
 	height: 200px;
 	display: inline-block;
 	margin-bottom: 38px;
-	position: relative;
+	
 }
 .arlo_tm_hero_header_wrap .image_wrap img{min-width: 100%;}
 .arlo_tm_hero_header_wrap .image_wrap .main{
@@ -1130,7 +1130,7 @@ img.svg{
 }
 .arlo_tm_hero_header_wrap .name_holder h3 span{
 	font-weight: 500;
-	color:#E3872D;
+	color:yellow;
 }
 .arlo_tm_hero_header_wrap .text_typing{
 	width: 100%;
@@ -1154,7 +1154,7 @@ img.svg{
 }
 
 
-.arlo_tm_about_wrap .arlo_tm_animation_text_word{color: #0f84e0;}
+.arlo_tm_about_wrap .arlo_tm_animation_text_word{color: #2222fe;}
 .arlo_tm_arrow_wrap{
 	position: absolute;
 	left: 50%;
@@ -2628,7 +2628,7 @@ img.svg{
 	overflow: hidden;
 	outline: 1px solid rgba(255,255,255,.64);
 
-	background-color: #000;
+	background-color: #E3872D;
     padding: 22px;
     border-radius: 3px;
     display: inline-block;
@@ -2869,7 +2869,7 @@ img.svg{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	background-color: #0f84e0;
+	background-color: #212d40;
 border: 0px solid white;
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
