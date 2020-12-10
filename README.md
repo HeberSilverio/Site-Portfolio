@@ -3,7 +3,7 @@
 
 ![Currículo Héber](https://raw.githubusercontent.com/HeberSilverio/Site-Portfolio/main/site-portfolio.PNG)
 
-### 🎫 Descrição do projeto
+### Descrição do projeto
 
 Este foi o primeiro repositório que crie. A minha intenção com ele era ter uma página com a descrição das minhas habilidades, porém depois eu fiz outro repositório para atender esse objetivo. Esta página contém a descrição de algumas coisas sobre mim que não tem no repositório Currículo. 
 
