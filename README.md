@@ -5,7 +5,7 @@
 
 ### Descrição do projeto
 
-Este foi o primeiro repositório que crie. A minha intenção com ele era ter uma página com a descrição das minhas habilidades, porém depois eu fiz outro repositório para atender esse objetivo. Esta página contém a descrição de algumas coisas sobre mim que não tem no repositório Currículo. 
+Este foi o primeiro repositório que criei. A minha intenção era ter uma página com a descrição das minhas habilidades, porém depois eu fiz outro repositório para atender esse objetivo. Esta página contém a descrição de algumas coisas sobre mim que não tem no repositório Currículo. 
 
 ### ⌨️ Como executar o projeto
 ```* Clonando o repositório
